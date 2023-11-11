@@ -1,0 +1,221 @@
+[
+    {
+        "letter": "א",
+        "name": "Aleph",
+        "numericalValue": 1,
+        "meaning": [
+            "To learn",
+            "To produce thousands",
+            "Connected to 'oxen'",
+            "Resembles an ox's head"
+        ]
+    },
+    {
+        "letter": "ב",
+        "name": "Beth",
+        "numericalValue": 2,
+        "meaning": [
+            "House",
+            "Household",
+            "House Of The Lord or Temple"
+        ]
+    },
+    {
+        "letter": "ג",
+        "name": "Gimel",
+        "numericalValue": 3,
+        "meaning": [
+            "To deal or recompense",
+            "Related to 'camel'",
+            "Resembles a camel's neck"
+        ]
+    },
+    {
+        "letter": "ד",
+        "name": "Daleth",
+        "numericalValue": 4,
+        "meaning": [
+            "Draw (water)",
+            "Swinging door of a building",
+            "Going out or letting someone in"
+        ]
+    },
+    {
+        "letter": "ה",
+        "name": "He",
+        "numericalValue": 5,
+        "meaning": [
+            "Meaning uncertain",
+            "Used as a definite particle 'the'",
+            "Emphasis or reference to a previous statement"
+        ]
+    },
+    {
+        "letter": "ו",
+        "name": "Waw",
+        "numericalValue": 6,
+        "meaning": [
+            "Hook or peg",
+            "Used for the curtains of the tabernacle",
+            "Resembles a hook or peg"
+        ]
+    },
+    {
+        "letter": "ז",
+        "name": "Zayin",
+        "numericalValue": 7,
+        "meaning": [
+            "Meaning debated",
+            "Represents a hand weapon",
+            "Arm, ornament, to arm, to adorn"
+        ]
+    },
+    {
+        "letter": "ח",
+        "name": "Heth",
+        "numericalValue": 8,
+        "meaning": [
+            "Meaning unknown",
+            "Possibly 'fence in', 'destroy'",
+            "Symbol of stacking stones or livelihood"
+        ]
+    },
+    {
+        "letter": "ט",
+        "name": "Teth",
+        "numericalValue": 9,
+        "meaning": [
+            "Origin a mystery",
+            "Possibly 'spin', 'knot'",
+            "Looks like a little vortex or spiral"
+        ]
+    },
+    {
+        "letter": "י",
+        "name": "Yod",
+        "numericalValue": 10,
+        "meaning": [
+            "Hand (holding or fist)",
+            "Power or might",
+            "Forms a possessive or third person singular imperfect as prefix"
+        ]
+    },
+    {
+        "letter": "כ",
+        "name": "Kaph",
+        "numericalValue": 20,
+        "meaning": [
+            "Hand (outstretched)",
+            "Asking and weak",
+            "Expresses comparison or second person singular as prefix or postfix"
+        ]
+    },
+    {
+        "letter": "ל",
+        "name": "Lamed",
+        "numericalValue": 30,
+        "meaning": [
+            "Learn or teach",
+            "Ox goad",
+            "Symbolizes learning"
+        ]
+    },
+    {
+        "letter": "מ",
+        "name": "Mem",
+        "numericalValue": 40,
+        "meaning": [
+            "Waters (sea, ocean)",
+            "Suggested to look like a wave"
+        ]
+    },
+    {
+        "letter": "נ",
+        "name": "Nun",
+        "numericalValue": 50,
+        "meaning": [
+            "Propagate, increase",
+            "Offspring, posterity",
+            "Resembles a fish"
+        ]
+    },
+    {
+        "letter": "ס",
+        "name": "Samekh",
+        "numericalValue": 60,
+        "meaning": [
+            "Lean upon, support, uphold",
+            "Used in 'laying on of hands'"
+        ]
+    },
+    {
+        "letter": "ע",
+        "name": "Ayin",
+        "numericalValue": 70,
+        "meaning": [
+            "Eye",
+            "Spring or fountain",
+            "Expression of knowledge, character"
+        ]
+    },
+    {
+        "letter": "פ",
+        "name": "Pe",
+        "numericalValue": 80,
+        "meaning": [
+            "Mouth",
+            "Synonymous with speech",
+            "Resembles a face with a mouth"
+        ]
+    },
+    {
+        "letter": "צ",
+        "name": "Tsadhe/Tsadiq",
+        "numericalValue": 90,
+        "meaning": [
+            "Meaning debated",
+            "Possibly 'fish hook'",
+            "Just, righteous"
+        ]
+    },
+    {
+        "letter": "ק",
+        "name": "Qoph",
+        "numericalValue": 100,
+        "meaning": [
+            "Circular motion",
+            "Ear of an axe or needle",
+            "Represents a cycle or circuit"
+        ]
+    },
+    {
+        "letter": "ר",
+        "name": "Resh",
+        "numericalValue": 200,
+        "meaning": [
+            "Head",
+            "Indicates leadership, beginning",
+            "Used in 'in the beginning'"
+        ]
+    },
+    {
+        "letter": "ש",
+        "name": "Sin/Shin",
+        "numericalValue": 300,
+        "meaning": [
+            "Sharpen",
+            "Tooth or ivory",
+            "Represents teeth or sharpness"
+        ]
+    },
+    {
+        "letter": "ת",
+        "name": "Taw",
+        "numericalValue": 400,
+        "meaning": [
+            "Mark",
+            "Boundary or limit",
+            "Associated with pain or wound"
+        ]
+    }
+]
