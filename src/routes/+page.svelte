@@ -10,9 +10,9 @@
   });
 </script>
 
-<h1 class="text-4xl my-4 text-center">Hebrew Meanings</h1>
+<h1 class="text-4xl my-4 text-white text-center">Hebrew Meanings</h1>
 
-<div class="m-4">
+<div class="m-4 text-white">
   <HebrewInputComponent {letters} />
   <HebrewLetters />
 </div>

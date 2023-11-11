@@ -51,7 +51,7 @@
 
 <button on:click={clearInput} class="btn btn-primary"> Clear </button>
 
-<div class="flex overflow-x-auto py-2">
+<div class="text-white flex overflow-x-auto py-2">
   {#each characterMeanings as char}
     <HebrewCharacterCard {char} />
   {/each}
