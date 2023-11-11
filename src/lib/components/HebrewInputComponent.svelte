@@ -45,7 +45,7 @@
   type="text"
   bind:value={inputText}
   on:input={processInput}
-  class="input input-bordered w-full max-w-xs"
+  class="text-black bg-white input input-bordered w-full max-w-xs"
   dir="rtl"
 />
 
